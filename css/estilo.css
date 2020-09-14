@@ -66,6 +66,7 @@ and (max-width: 1023px) {
     border-radius: 10px;
     box-shadow: 3px 3px rgb(133, 133, 133);
     height: 38em;
+    margin-top: 3em;
 }
 .texto{
     text-align: justify;
