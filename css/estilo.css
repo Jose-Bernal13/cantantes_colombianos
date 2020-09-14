@@ -21,6 +21,7 @@ p{
     .sub {
         width: 90%;
         margin: 0 auto 0 auto;
+        margin-top: 3em;
     }
     .img {
         width: 95%;
@@ -37,6 +38,7 @@ and (max-width: 1023px) {
         float: left;
         margin-left: 1%;
         margin-bottom: 1.3em;
+        margin-top: 3em;
     }
     .img {
         width: 95%;
@@ -53,6 +55,7 @@ and (max-width: 1023px) {
         float: left;
         margin-left: 1.6%;
         margin-bottom: 1.3em;
+        margin-top: 3em;
     }
     .img {
         width: 95%;
